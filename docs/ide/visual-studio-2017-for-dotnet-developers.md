@@ -76,7 +76,7 @@ Visual Studio has a rich ecosystem of extensions that you can install or create 
 ## Popular extensions & shortcuts
 If you are coming from another IDE or coding environment, you may find installing one of these extensions helpful:
 - [Emacs Emulation](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.Emacsemulation)
-- [HotKeys for Visual Studio (IntelliJ)](https://marketplace.visualstudio.com/items?itemName=JustinClareburtMSFT.HotKeys2017-KeyboardShortcuts)
+- [HotKeys for Visual Studio (R#/IntelliJ)](https://marketplace.visualstudio.com/items?itemName=JustinClareburtMSFT.HotKeys2017-KeyboardShortcuts)
 - [VSVim](https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim)
 
 | Shortcut (All Profiles) | Command | Description |
